@@ -2,9 +2,13 @@
 
 This project will help you practice the skills and concepts you learned related to constants, variables and print statements.
 
+If you are not on a Mac and you would like to go through this intro course, this module’s project will be done using repl.it, an online service that will run Swift code for you.
+
+If you are on a Mac, you can choose to use repl.it or Xcode to write and run your project code.
+
 ### Non-Mac Users:
 
-Please go to [this repl.it page](https://repl.it/student/submissions/7575979) to complete the assignment. The instructions are on that page as well.
+Please go to [this repl.it page](https://repl.it/classroom/invite/dPzQZNZ) to get added to the "classroom" where each project is stored in private. 
 
 ### Mac Users:
 
