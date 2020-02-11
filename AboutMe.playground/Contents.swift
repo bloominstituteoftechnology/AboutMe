@@ -23,3 +23,4 @@
 import UIKit
 
 var myName = "Mark Gerrior"
+var homeTown = "San Jose"
