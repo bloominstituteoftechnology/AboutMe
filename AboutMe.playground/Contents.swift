@@ -23,3 +23,9 @@
 import UIKit
 
 var myName = "Diego Covarrubias"
+
+var myHomeTown = "San Jose"
+
+var myHomeState = "California"
+
+var myHomeCountry = "United States"
