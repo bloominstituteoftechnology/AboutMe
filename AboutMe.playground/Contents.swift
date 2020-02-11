@@ -23,6 +23,29 @@
 import UIKit
 
 var myName = "Samuel Esserman"
-var homeTown = "New York City"
+print(myName)
+
+let homeTown = "New York City"
+print(homeTown)
+
 var favoriteColor = "Blue"
+print(favoriteColor)
+
 var favoriteFood = "Latin Food"
+print(favoriteFood)
+
+var myAge = 22
+print(myAge)
+
+let myHobby = "Brazilian Jiu-Jitsu"
+print(myHobby)
+
+let favoriteAnimal = "Dogs"
+print(favoriteAnimal)
+
+let myGoal = "Graduate Lambda School, iOS15"
+print(myGoal)
+
+
+let introduction = "My name is \(myName), and I am \(myAge) years old. I was born and raised in \(homeTown). My favorite color is \(favoriteColor), I loved \(favoriteFood) & \(favoriteAnimal) are my favorite animals. My main hobby is \(myHobby) and my goal for 2020 is to \(myGoal)."
+print(introduction)
