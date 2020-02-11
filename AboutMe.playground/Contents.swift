@@ -23,6 +23,6 @@
 import UIKit
 
 var myName = "Benji Benjamin"
-
+var hometown = "Minneapolis, Minnesota"
 
 
