@@ -23,4 +23,6 @@
 import UIKit
 
 var myName = "Nichole Davidson"
+var homeTown = "Nowhere, USA"
+
 
