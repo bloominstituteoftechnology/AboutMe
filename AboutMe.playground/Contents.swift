@@ -23,3 +23,6 @@
 import UIKit
 
 var myName = "Samuel Esserman"
+var homeTown = "New York City"
+var favoriteColor = "Blue"
+var favoriteFood = "Latin Food"
