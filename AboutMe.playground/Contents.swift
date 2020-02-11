@@ -23,3 +23,6 @@
 import UIKit
 
 var myName = "Spencer Curtis"
+var hometown = "Springville"
+
+
