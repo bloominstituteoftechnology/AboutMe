@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='5.0' target-platform='ios' display-mode='raw'>
+    <timeline fileName='timeline.xctimeline'/>
+    echo "# rebuilding-dreams" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git remote add origin https://github.com/seancrook1/rebuilding-dreams.git
+    git push -u origin master
+    let name:string = Sean Crook I
+    Print (name)
+    Var age: int=42
+    Print (age)
+    var address: string = 255-C Leonard Road, Lincolnton, NC 28092
+    Print (address)
+    let reason: string = I want to make a better life for my family.
+    Print (reason)
+    let home: string = We live in a camper which allows us a lot of flexability.
+    Print (home)
+    let home2: string = we currently are living on my in-laws property as I goto school.
+    Print (home2)
+    let kids: string = I have 3 kids and 1 step child.
+    Print (kids)
+    let kids2: string = My 3 are 2 girls and 1 boy, my step child is a girl.
+    Print (kids2)
+    var kids ages: int= 19,14,10,8
+    print (kids ages)
+    var past: sting = I have been a fast food manager, retail sales, and a volunteer fireman and forest firefighter.
+    Print (past)
+    var computer: string = I have been working with computers since "BASIC", I have been a beta tester for Windows from  the beginning to just recently when I switched to Apple.
+    print (computer)
+    var relationship: string = I have been with my current fiencee for going on 9 years now.
+    print (relationship)
+    var kids school: string = we homeschool the 2 kids thatr live with us.
+    print (kids school)
+    let think: string = I think I have figured this out, i hope, this is brand new to me.
+    print (think)
+    let family: string = I am actually married but seperated and with my current other half trying to get my divorce.
+    print (family)
+    var food: string = I enjoy cooking.
+    print (food)
+</playground>
